@@ -7,7 +7,7 @@ setup(
     name="mypackagename",
     version=__version__,
     packages=find_packages(exclude=['docs', 'tests', 'tools', 'utils']),
-    url="https://github.com/simspace/pycep/",
+    url="https://github.com/wroersma/exampleimport/",
     license='Apache 2.0',
     author="Wyatt Roersma",
     author_email="wyatt@simspace.com",
